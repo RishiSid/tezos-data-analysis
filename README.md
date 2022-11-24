@@ -26,3 +26,4 @@ six==1.16.0 ; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 
 ## TODOs
 - Paramterize the script
 - Add flags to optionally generate figures and output csvs
+- Cleanup the code
